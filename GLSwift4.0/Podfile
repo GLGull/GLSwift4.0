@@ -1,0 +1,8 @@
+platform :ios, ‘8.0’
+use_frameworks!
+target 'GLSwift4.0’ do
+pod 'Alamofire’
+pod 'SnapKit'
+pod 'SwiftyJSON'
+
+end

@@ -1,0 +1,6 @@
+framework module Pods_GLSwift4_0 {
+  umbrella header "Pods-GLSwift4.0-umbrella.h"
+
+  export *
+  module * { export * }
+}
